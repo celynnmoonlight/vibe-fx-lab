@@ -38,23 +38,23 @@ uv run projects/004_audio_reactive_overlay/main.py
 
 ## Keyboard Shortcuts (All Projects)
 
-| Key | Action |
-|-----|--------|
-| Esc | Quit |
-| R | Start / Stop recording |
-| S | Screenshot |
-| F | Toggle fullscreen |
-| T | Toggle click-through |
-| Space | Regenerate |
+| Key   | Action                  |
+| ----- | ----------------------- |
+| Esc   | Quit                    |
+| R     | Start / Stop recording  |
+| S     | Screenshot              |
+| F     | Toggle fullscreen       |
+| T     | Toggle click-through    |
+| Space | Regenerate              |
 
 ## Projects
 
-| # | Name | Description |
-|---|------|-------------|
-| 001 | Neon Particle Network | Particles form glowing connection networks |
-| 002 | Geometry Tunnel | Rotating geometric shapes with depth perspective |
-| 003 | Liquid Neon Text | Text with liquid flow trails and drip effects |
-| 004 | Audio Reactive Spectrum | Audio frequency visualization (mic or simulated) |
+| #   | Name                  | Description                                           |
+| --- | --------------------- | ----------------------------------------------------- |
+| 001 | Neon Particle Network | Particles form glowing connection networks            |
+| 002 | Geometry Tunnel       | Rotating geometric shapes with depth perspective      |
+| 003 | Liquid Neon Text      | Text with liquid flow trails and drip effects         |
+| 004 | Audio Reactive Spectrum | Audio frequency visualization (mic or simulated)    |
 
 ## Export Video
 
