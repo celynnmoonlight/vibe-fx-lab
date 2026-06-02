@@ -13,7 +13,7 @@ from shared.overlay import OverlayWindow
 from shared.colors import random_neon, lerp_color
 
 TEXT = "VIBE FX"
-FONT_SIZE = 280
+FONT_SIZE = 180
 NUM_TRAILS = 8
 WAVE_SPEED = 0.03
 DRIP_CHANCE = 0.02
@@ -80,7 +80,7 @@ class LiquidTextOverlay(OverlayWindow):
         fm = QFontMetricsF(font)
         tw = fm.horizontalAdvance(self.text)
         tx = self.cx - tw / 2
-        ty = self.cy + fm.ascent() * 0.35
+        ty = self.cy + fm.ascent() * 0.3
 
         # 液化拖尾层
         for i in range(NUM_TRAILS):
