@@ -3,9 +3,9 @@
 import sys, os, math, random
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
 
-from PyQt6.QtCore import Qt
+from PyQt6.QtCore import Qt, QPointF
 from PyQt6.QtGui import QPainter, QColor, QPen, QPolygonF
-from PyQt6.QtCore import QPointF
+from PyQt6.QtWidgets import QApplication
 from shared.overlay import OverlayWindow
 from shared.colors import random_neon
 from shared.math_utils import rotate_point

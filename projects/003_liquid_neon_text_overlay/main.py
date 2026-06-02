@@ -8,6 +8,7 @@ from PyQt6.QtGui import (
     QPainter, QColor, QPen, QFont, QFontMetricsF,
     QPainterPath, QLinearGradient
 )
+from PyQt6.QtWidgets import QApplication
 from shared.overlay import OverlayWindow
 from shared.colors import random_neon, lerp_color
 
