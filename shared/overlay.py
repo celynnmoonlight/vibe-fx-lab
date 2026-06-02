@@ -75,7 +75,7 @@ class OverlayWindow(QWidget):
 
     def keyPressEvent(self, event):
         key = event.key()
-        if key == Qt.Key.Key_Escape:
+        if key in (Qt.Key.Key_Escape, Qt.Key.Key_Q):
             self.close()
         elif key == Qt.Key.Key_R:
             self.recorder.toggle()
