@@ -49,11 +49,11 @@ uv run projects/004_audio_reactive_overlay/main.py
 
 ## Projects
 
-| #   | Name                  | Description                                           |
-| --- | --------------------- | ----------------------------------------------------- |
-| 001 | Neon Particle Network | Particles form glowing connection networks            |
-| 002 | Geometry Tunnel       | Rotating geometric shapes with depth perspective      |
-| 003 | Liquid Neon Text      | Text with liquid flow trails and drip effects         |
+| #   | Name                    | Description                                         |
+| --- | ----------------------- | --------------------------------------------------- |
+| 001 | Neon Particle Network   | Particles form glowing connection networks          |
+| 002 | Geometry Tunnel         | Rotating geometric shapes with depth perspective    |
+| 003 | Liquid Neon Text        | Text with liquid flow trails and drip effects       |
 | 004 | Audio Reactive Spectrum | Audio frequency visualization (mic or simulated)    |
 
 ## Export Video
