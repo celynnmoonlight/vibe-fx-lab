@@ -18,10 +18,22 @@
 ```bash
 # 安装依赖
 uv sync
+```
 
-# 运行某个特效项目
-cd projects/001_neon_particle_overlay
-python main.py
+### 运行项目
+
+```bash
+# 001 霓虹粒子网络悬浮层
+uv run projects/001_neon_particle_overlay/main.py
+
+# 002 几何霓虹隧道悬浮层
+uv run projects/002_geometry_tunnel_overlay/main.py
+
+# 003 液化霓虹文字悬浮层
+uv run projects/003_liquid_neon_text_overlay/main.py
+
+# 004 音乐响应频谱悬浮层
+uv run projects/004_audio_reactive_overlay/main.py
 ```
 
 ## 快捷键（所有项目通用）

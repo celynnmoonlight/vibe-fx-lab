@@ -18,10 +18,22 @@ A collection of local desktop overlay visual effects. Generate stunning animatio
 ```bash
 # Install dependencies
 uv sync
+```
 
-# Run a project
-cd projects/001_neon_particle_overlay
-python main.py
+### Run Projects
+
+```bash
+# 001 Neon Particle Network
+uv run projects/001_neon_particle_overlay/main.py
+
+# 002 Geometry Tunnel
+uv run projects/002_geometry_tunnel_overlay/main.py
+
+# 003 Liquid Neon Text
+uv run projects/003_liquid_neon_text_overlay/main.py
+
+# 004 Audio Reactive Spectrum
+uv run projects/004_audio_reactive_overlay/main.py
 ```
 
 ## Keyboard Shortcuts (All Projects)
