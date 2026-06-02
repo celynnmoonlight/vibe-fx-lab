@@ -7,4 +7,5 @@ dependencies = [
     "PyQt6>=6.11.0",
     "numpy>=2.4.6",
     "Pillow>=12.2.0",
+    "pyaudio>=0.2.14",
 ]
