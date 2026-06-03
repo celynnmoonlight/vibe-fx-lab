@@ -46,6 +46,21 @@ uv run projects/007_starry_love_overlay/main.py
 
 # 008 Sparkle Heart
 uv run projects/008_sparkle_heart_overlay/main.py
+
+# 009 Cherry Blossoms
+uv run projects/009_cherry_blossoms_overlay/main.py
+
+# 010 Dreamy Bubbles
+uv run projects/010_dreamy_bubbles_overlay/main.py
+
+# 011 Butterflies
+uv run projects/011_butterflies_overlay/main.py
+
+# 012 Shooting Stars
+uv run projects/012_shooting_stars_overlay/main.py
+
+# 013 Aurora
+uv run projects/013_aurora_overlay/main.py
 ```
 
 ## Keyboard Shortcuts (All Projects)
@@ -71,6 +86,11 @@ uv run projects/008_sparkle_heart_overlay/main.py
 | 006 | Rose Petals             | Rose petals falling and swirling gently             |
 | 007 | Starry Love             | Hearts trace love paths across a starry sky         |
 | 008 | Sparkle Heart           | Firework explosions with heart-shaped particles     |
+| 009 | Cherry Blossoms         | Sakura petals falling with 3D flip effect           |
+| 010 | Dreamy Bubbles          | Rainbow transparent bubbles floating upward         |
+| 011 | Butterflies             | Colorful butterflies fluttering with wing animation |
+| 012 | Shooting Stars          | Meteors streaking across a starry night sky         |
+| 013 | Aurora                  | Dreamy northern lights flowing in the night sky     |
 
 ## Export Video
 

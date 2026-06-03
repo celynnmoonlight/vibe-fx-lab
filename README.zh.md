@@ -46,6 +46,21 @@ uv run projects/007_starry_love_overlay/main.py
 
 # 008 烟花爱心悬浮层
 uv run projects/008_sparkle_heart_overlay/main.py
+
+# 009 樱花飘落悬浮层
+uv run projects/009_cherry_blossoms_overlay/main.py
+
+# 010 梦幻泡泡悬浮层
+uv run projects/010_dreamy_bubbles_overlay/main.py
+
+# 011 蝴蝶飞舞悬浮层
+uv run projects/011_butterflies_overlay/main.py
+
+# 012 流星许愿悬浮层
+uv run projects/012_shooting_stars_overlay/main.py
+
+# 013 极光流动悬浮层
+uv run projects/013_aurora_overlay/main.py
 ```
 
 ## 快捷键（所有项目通用）
@@ -71,6 +86,11 @@ uv run projects/008_sparkle_heart_overlay/main.py
 | 006 | 玫瑰花瓣雨悬浮层   | 玫瑰花瓣飘落旋转，浪漫氛围            |
 | 007 | 星空爱心连线悬浮层 | 爱心沿爱心轨迹运动，繁星闪烁          |
 | 008 | 烟花爱心悬浮层     | 粉色烟花绽放，爆炸中散落小爱心        |
+| 009 | 樱花飘落悬浮层     | 樱花花瓣飘落，3D 翻转效果             |
+| 010 | 梦幻泡泡悬浮层     | 彩虹透明泡泡缓缓升起                  |
+| 011 | 蝴蝶飞舞悬浮层     | 彩色蝴蝶翩翩飞舞，翅膀扇动动画       |
+| 012 | 流星许愿悬浮层     | 流星划过繁星夜空                      |
+| 013 | 极光流动悬浮层     | 梦幻北极光在夜空中流动                |
 
 ## 导出视频
 
