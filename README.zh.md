@@ -34,6 +34,18 @@ uv run projects/003_liquid_neon_text_overlay/main.py
 
 # 004 音乐响应频谱悬浮层
 uv run projects/004_audio_reactive_overlay/main.py
+
+# 005 飘浮爱心悬浮层
+uv run projects/005_floating_hearts_overlay/main.py
+
+# 006 玫瑰花瓣雨悬浮层
+uv run projects/006_rose_petals_overlay/main.py
+
+# 007 星空爱心连线悬浮层
+uv run projects/007_starry_love_overlay/main.py
+
+# 008 烟花爱心悬浮层
+uv run projects/008_sparkle_heart_overlay/main.py
 ```
 
 ## 快捷键（所有项目通用）
@@ -55,6 +67,10 @@ uv run projects/004_audio_reactive_overlay/main.py
 | 002 | 几何霓虹隧道悬浮层 | 旋转几何隧道，深度透视动画            |
 | 003 | 液化霓虹文字悬浮层 | 文字液化流动，霓虹光效                |
 | 004 | 音乐响应频谱悬浮层 | 音频频谱可视化，支持麦克风/模拟模式   |
+| 005 | 飘浮爱心悬浮层     | 粉色爱心缓缓飘起，带闪光粒子          |
+| 006 | 玫瑰花瓣雨悬浮层   | 玫瑰花瓣飘落旋转，浪漫氛围            |
+| 007 | 星空爱心连线悬浮层 | 爱心沿爱心轨迹运动，繁星闪烁          |
+| 008 | 烟花爱心悬浮层     | 粉色烟花绽放，爆炸中散落小爱心        |
 
 ## 导出视频
 
