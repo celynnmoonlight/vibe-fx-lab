@@ -160,7 +160,7 @@ class Heart:
         k = min(1.0, t / dur)
         k = 1 - (1 - k) ** 2  # easeOutQuad
         # 保留起点：当前 (x, y) → (tx, ty)
-        if not hasattr(self, "_gx"):
+        if not hasattr(self, "_gx") or self._gx is None:
             self._gx, self._gy = self.x, self.y
         self.x = self._gx + (self.tx - self._gx) * k
         self.y = self._gy + (self.ty - self._gy) * k
@@ -188,7 +188,7 @@ class Heart:
         d = math.hypot(dx, dy) or 1
         ux, uy = dx / d, dy / d
         # 各自的速度方向（带一点随机）
-        if not hasattr(self, "_ex_v"):
+        if not hasattr(self, "_ex_v") or self._ex_v is None:
             a = math.atan2(dy, dx) + random.uniform(-0.4, 0.4)
             sp = random.uniform(6, 14)
             self._ex_v = (math.cos(a) * sp, math.sin(a) * sp)
