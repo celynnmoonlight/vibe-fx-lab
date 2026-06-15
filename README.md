@@ -61,6 +61,9 @@ uv run projects/012_shooting_stars_overlay/main.py
 
 # 013 Aurora
 uv run projects/013_aurora_overlay/main.py
+
+# 014 Hearts Flood
+uv run projects/014_hearts_flood_overlay/main.py
 ```
 
 ## Keyboard Shortcuts (All Projects)
@@ -91,6 +94,7 @@ uv run projects/013_aurora_overlay/main.py
 | 011 | Butterflies             | Colorful butterflies fluttering with wing animation |
 | 012 | Shooting Stars          | Meteors streaking across a starry night sky         |
 | 013 | Aurora                  | Dreamy northern lights flowing in the night sky     |
+| 014 | Hearts Flood            | Hearts of all sizes flooding the screen with pulse and sparkle |
 
 ## Export Video
 

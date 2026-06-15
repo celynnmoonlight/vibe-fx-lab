@@ -61,6 +61,9 @@ uv run projects/012_shooting_stars_overlay/main.py
 
 # 013 极光流动悬浮层
 uv run projects/013_aurora_overlay/main.py
+
+# 014 爱心铺满屏幕悬浮层
+uv run projects/014_hearts_flood_overlay/main.py
 ```
 
 ## 快捷键（所有项目通用）
